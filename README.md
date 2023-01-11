@@ -1,4 +1,4 @@
-# Hands-project---Deep-Learning-class
+# Hands-project---Deep-Learning
 Reference to dataset: https://sites.google.com/view/11khands/
 
 Data description:
